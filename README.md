@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I’m currently working on: our robotics' team scouting app<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and web development<br>📫 How to reach me: jameseverest09@gmail.com
+🤖 I’m currently working on: our robotics' team scouting app<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and web development
 
 
 ## 🌐 Socials:
