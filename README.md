@@ -1,8 +1,10 @@
-# 💫 About Me:
+<div align="center">
+  
+# 💫 Hello!
 🤖 I’m currently working on: 5940 BREAD's scouting app<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and Web App Design
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jameseverest09@gmail.com) 
 
 # 💻 Tech Stack:
@@ -21,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JamesEHart&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
