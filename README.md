@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 Hello!
-🤖 I’m currently working on: 5940 BREAD's scouting app<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and Web App Design
+🤖 I’m currently working on: 5940 BREAD's scouting app (bread-2025-scouting-app.vercel.app)<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and Web App Design
 
 
 ## 🌐 Contact Me:
