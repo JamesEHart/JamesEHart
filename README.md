@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫 Hello!
+# ✨ Hello! ✨
 🤖 I’m currently working on: 5940 BREAD's scouting app<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and Web App Design
 
 
