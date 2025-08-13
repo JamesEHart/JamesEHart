@@ -1,7 +1,7 @@
 <div align="center">
   
 # ✨ Hello! ✨
-🤖 I’m currently working on: 5940 BREAD's neural network powered robot scouting<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and Web App Design
+🤖 I’m currently working on: 5940 BREAD's neural network powered robot scouting<br>🌱 I’m currently learning: Ethical Hacking, Game Development, and Web App Design <br> 🍞 Programming head on frc team 5940 BREAD
 
 
 ## 🌐 Contact Me:
