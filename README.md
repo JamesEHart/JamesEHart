@@ -20,6 +20,12 @@ I build things that interact with the physical world: GPS navigators on microcon
 
 **[finsight-api](https://github.com/JamesEHart/finsight-api)**: Deployed stock enrichment API (FastAPI + Render). Returns real-time quotes, RSI, MACD, moving averages, and plain-English stock summaries in one call.
 
+**[VibeSort](https://github.com/JamesEHart/VibeSort)**: Python tool that connects to Spotify and auto-sorts your liked songs into mood-based playlists. Analyzes audio features (energy, valence, tempo, acousticness) and buckets tracks into seven themed playlists: Hype, High Energy, Chill, Focus, Melancholy, Acoustic, and Vibes.
+
+**[DueList](https://github.com/JamesEHart/DueList)**: CLI assignment tracker for students. Add tasks with natural-language due dates ("next Friday"), view deadlines color-coded by urgency, and sync everything to Google Sheets. Exports weekly summaries as Word docs or Markdown.
+
+**[SheetForm](https://github.com/JamesEHart/SheetForm)**: Python CLI that converts marker-formatted plaintext lyrics and setlists into polished Word or Markdown documents. Supports batch processing and auto-generates filenames from title tags.
+
 ---
 
 ### Stack
@@ -40,6 +46,8 @@ I build things that interact with the physical world: GPS navigators on microcon
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
 **Hardware & Tools**
 
