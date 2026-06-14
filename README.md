@@ -1,6 +1,6 @@
 <div align="center">
 
-# James Hart
+# Hello!
 
 *Embedded systems · Autonomous vehicles · Drone flight controllers · FRC 5940*
 
