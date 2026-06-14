@@ -2,7 +2,7 @@
 
 # James Hart
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&width=500&lines=Embedded+systems;Autonomous+vehicles;GPS+navigators+on+microcontrollers;Drone+flight+controllers;FRC 5940;Building+things+that+move" alt="Typing SVG" />
+*Embedded systems · Autonomous vehicles · Drone flight controllers · FRC 5940*
 
 I build things that interact with the physical world: GPS navigators on microcontrollers, drone flight controllers, rocket telemetry systems, and the software around them. Former Programming Head for [FRC Team 5940 BREAD](https://github.com/BREAD5940).
 
