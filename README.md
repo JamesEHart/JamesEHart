@@ -13,7 +13,7 @@ Former Programming Head for [FRC Team 5940 BREAD](https://github.com/BREAD5940).
 
 **[d.arc](https://github.com/JamesEHart/d.arc-25-26)**: BeagleBone Blue running C, reading IMU/barometer/encoder hardware, serving a live browser dashboard over REST, and executing calibration flights autonomously.
 
-**[Aria](https://github.com/JamesEHart/Aria)**: Local AI agent built from scratch in pure Python stdlib. Multi-step agentic tool loop, hybrid RAG (cosine + FTS5), dual memory, autonomous skill creation, and self-rewriting personality. Zero pip dependencies.
+**[Aria](https://github.com/JamesEHart/Aria)**: Local AI agent built from scratch in pure Python stdlib. Runs local LLMs via Ollama, with a browser UI, multi-step agentic tool loop, hybrid RAG (cosine + FTS5), dual memory, autonomous skill creation, and self-rewriting personality. Zero pip dependencies.
 
 **[Pathfinder](https://github.com/JamesEHart/Pathfinder)**: MicroPython GPS trail navigator on a Raspberry Pi Pico. Parses GeoJSON trail data on-device, reads a magnetometer compass over I2C, and drives an 8-LED NeoPixel ring to point toward the nearest waypoint. Runs on battery.
 
