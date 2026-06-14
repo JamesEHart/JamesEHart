@@ -2,9 +2,8 @@
 
 # Hello!
 
-*Embedded systems · Autonomous vehicles · Drone flight controllers · FRC 5940*
-
-I build things that interact with the physical world: GPS navigators on microcontrollers, drone flight controllers, rocket telemetry systems, and the software around them. Former Programming Head for [FRC Team 5940 BREAD](https://github.com/BREAD5940).
+I like building things and figuring out how stuff works. That's taken me through drone flight controllers, GPS navigators on microcontrollers, Spotify tools, student productivity apps, and a lot of rabbit holes in between.
+Former Programming Head for [FRC Team 5940 BREAD](https://github.com/BREAD5940).
 
 </div>
 
