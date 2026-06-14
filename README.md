@@ -2,7 +2,7 @@
 
 # Hello!
 
-I like building things and figuring out how stuff works. That's taken me through drone flight controllers, GPS navigators on microcontrollers, Spotify tools, student productivity apps, and a lot of rabbit holes in between.
+I like building things and figuring out how stuff works. That's taken me through drone flight controllers, GPS navigators on microcontrollers, student productivity apps, and a lot of rabbit holes in between.
 Former Programming Head for [FRC Team 5940 BREAD](https://github.com/BREAD5940).
 
 </div>
@@ -18,8 +18,6 @@ Former Programming Head for [FRC Team 5940 BREAD](https://github.com/BREAD5940).
 **[TrailFinder App](https://github.com/JamesEHart/Trailfinder-App)**: React Native / Expo mobile app. Auto-detects nearby national parks via GPS, downloads trail maps for offline use, and reads/writes NFC tags via an ACR122U to instantly load parks.
 
 **[finsight-api](https://github.com/JamesEHart/finsight-api)**: Deployed stock enrichment API (FastAPI + Render). Returns real-time quotes, RSI, MACD, moving averages, and plain-English stock summaries in one call.
-
-**[VibeSort](https://github.com/JamesEHart/VibeSort)**: Python tool that connects to Spotify and auto-sorts your liked songs into mood-based playlists. Analyzes audio features (energy, valence, tempo, acousticness) and buckets tracks into seven themed playlists: Hype, High Energy, Chill, Focus, Melancholy, Acoustic, and Vibes.
 
 **[DueList](https://github.com/JamesEHart/DueList)**: CLI assignment tracker for students. Add tasks with natural-language due dates ("next Friday"), view deadlines color-coded by urgency, and sync everything to Google Sheets. Exports weekly summaries as Word docs or Markdown.
 
